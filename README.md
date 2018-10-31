@@ -7,7 +7,7 @@ These are repositories that should be used to deploy Acme Air Applications:
  - acmeair-bookingservice-java
  - acmeair-customerservice-java
  - acmeair-flightservice-java
- - acmeair-maiservice-java
+ - acmeair-mainservice-java
  
 helper scripts make it easier to deploy application on IBM Cloud Kubernetes Service (IKS).  It will deploy Acme Air without GUI mode (acmeair-mainservice-java will not be deployed).
 To use Acme Air with GUI, please see the README in acmeair-mainservice-java
